@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Joudi! 👋
 
-<!--
-**allababidijoudi4-dot/allababidijoudi4-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering & Automation Student at Damascus University
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm starting my programming journey and building my technical foundations.
+- 🤖 Interested in Artificial Intelligence.
+- 🔐 Exploring Cybersecurity.
+- 📚 Passionate about learning and continuous improvement.
+- 🎯 Working toward building my first programming projects.
+
+💡 My Interests
+
+- Computer Engineering
+- Programming
+- Artificial Intelligence (AI)
+- Cybersecurity
+
+🤝 Let's Connect
+
+I'm happy to connect with fellow students, developers, and technology enthusiasts to learn and grow together.
+
+---
+
+⭐ Every expert was once a beginner.
